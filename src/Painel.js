@@ -18,7 +18,7 @@ function Painel({ user }) {
 
   const agentes = [
     {
-      nome: "InovahProposta",
+      nome: "InovahProspecção & Proposta",
       descricao: "Propostas comerciais prontas pra enviar",
       link: "https://chatgpt.com/g/g-687bdad200808191be343e2a2bd090d9-inovahproposta",
       icon: "💰",
