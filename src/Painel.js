@@ -84,8 +84,8 @@ function Painel({ user }) {
   ];
 
   const socialLinks = [
-    { name: "Instagram", url: "https://instagram.com/seuusuario", icon: "icon-instagram.png" },
-    { name: "Facebook", url: "https://facebook.com/seupagina", icon: "icon-facebook.png" }
+    { name: "Instagram", url: "https://www.instagram.com/inovah.growth/", icon: "icon-instagram.png" },
+    { name: "Facebook", url: "https://www.facebook.com/inovah.growth", icon: "icon-facebook.png" }
   ];
 
   return (
